@@ -1,4 +1,4 @@
-# 🚢 Titanic Top 4.7
+# 🚢 Titanic Top 4.7%
 
 This repository presents a high-ranking solution to the legendary **Titanic - Machine Learning from Disaster** competition hosted on Kaggle.
 
