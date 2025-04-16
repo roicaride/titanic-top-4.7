@@ -12,6 +12,7 @@ This project implements multiple machine learning models to predict passenger su
 
 ## Project Structure
 titanic/
+
 │
 ├── data/                       
 │   ├── train.csv                   
