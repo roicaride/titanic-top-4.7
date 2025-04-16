@@ -13,21 +13,21 @@ This project implements multiple machine learning models to predict passenger su
 ## Project Structure
 titanic/
 │
-├── data/
-│ ├── train.csv
-│ └── test.csv
+├── data/                       
+│   ├── train.csv                   
+│   └── test.csv                  
 │
-├── models/
-│ ├── best_random_forest.joblib
-│ ├── best_xgboost.joblib
-│ ├── best_svm.joblib
-│ ├── best_logistic_regression.joblib
-│ └── best_neural_network.joblib
+├── models/                       
+│   ├── best_random_forest.joblib   
+│   ├── best_xgboost.joblib       
+│   ├── best_svm.joblib         
+│   ├── best_logistic_regression.joblib
+│   └── best_neural_network.joblib   
 │
-├── titanic.ipynb
-├── requirements.txt:
-├── README.md
-└── LICENSE
+├── titanic.ipynb                    
+├── requirements.txt                 
+├── README.md                     
+└── LICENSE                 
 
 ## Features Engineering
 - **Basic Features**: Age, Sex, Pclass, Fare
